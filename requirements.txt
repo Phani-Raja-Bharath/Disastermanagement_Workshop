@@ -1,0 +1,13 @@
+folium
+scikit-learn
+shapely
+geopandas
+branca
+ipywidgets
+osmnx
+networkx
+openmeteo-requests
+requests-cache
+retry-requests
+py3dep
+rasterio
