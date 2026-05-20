@@ -1,4 +1,4 @@
-# GeoAI Flood Risk Assessment & Digital-Twin-Style Replay
+# GeoAI Flood Risk Assessment & Digital-Twin-Inspired Replay
 
 ## Overview
 
